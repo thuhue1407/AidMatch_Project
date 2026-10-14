@@ -21,4 +21,4 @@ Trang web đáp ứng đầy đủ yêu cầu UI/UX và có tích hợp các tư
 
 - **Link Figma (Trang 11.03):** [BTL-Figma AidMatch](https://www.figma.com/design/qRbPIZDcjAKBUfrQvjKHY1/BTL-Figma?node-id=0-1&p=f&t=k2dyq9hYwc0JDE4s-0)
 - **Link Video :** [https://youtu.be/2AyPemgsvvE]
-- **Link GitHub Repository:** [Dán link Repo Github chứa source code này tại đây]
+- **Link GitHub Repository:** [https://github.com/thuhue1407/AidMatch_Project/tree/main]
