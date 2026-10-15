@@ -21,7 +21,8 @@
 }
 
 body {
-    overscroll-behavior:none;
+    height:100vh;
+    overflow:hidden;
     margin:0;
     background-color: var(--bg-light);
     color: var(--text-main);
@@ -142,6 +143,8 @@ body {
 }
 
 /* Layout Chính */
+.khungvafooter{
+    overflow-y:auto;}
 .khung-chinh {
     display: flex;
     flex: 1;
