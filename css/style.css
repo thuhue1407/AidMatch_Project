@@ -21,6 +21,7 @@
 }
 
 body {
+    overscroll-behavior:none;
     margin:0;
     background-color: var(--bg-light);
     color: var(--text-main);
